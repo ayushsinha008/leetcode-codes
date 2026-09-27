@@ -23,8 +23,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayushsinha008/leetcode-codes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0876-middle-of-the-linked-list](https://github.com/ayushsinha008/leetcode-codes/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Search
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayushsinha008/leetcode-codes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/ayushsinha008/leetcode-codes/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
